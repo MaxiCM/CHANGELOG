@@ -1,0 +1,375 @@
+  MaxiCM 5.1 ROM
+
+  Source Code: http://github.com/MaxiCM
+  Website: http://www.maxicm.com
+  For extended changelog, track github activities
+
+The Changelog
+
+====================
+     11-09-2015
+====================
+
+
+   * device/lge/jag3gds/
+8cb964d Add new kernel name
+d9db2d0 Add Support jag3gds
+
+   * device/lge/jagnm/
+4bb7c13 Add new kernel name
+
+   * kernel/lge/msm8226/
+5248152 Add Fast Charge
+51783ea Add DT2W
+567341f Fix Typo
+6b1f1eb Add LocalVersion
+2dec631 Defconfig: Update configs
+2621272 Add jag3gds
+
+   * packages/providers/ThemesProvider/
+2f386fc Fix applied previews query when component doesn't exist
+
+   * prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9/
+f22f062 Add NOTICE and MODULE_LICENSE files.
+3122899 Revert "Revert "Update prebuilt gold for --pic-veneer option.""
+
+   * vendor/lge/
+fdb3553 Update README
+07a3b5b Add Support jag3gds
+3822d14 Update Copyright MaxiCM
+
+   * vendor/maxi/
+b630d3b Add jag3gds to vendorsetup.sh
+67b2d9d Add janice to vendorsetup.sh
+9a97fc0 Merge pull request #1 from Krizthian/patch-1
+0058de8 Include otus to vendorsetup.sh
+
+====================
+     11-08-2015
+====================
+
+
+   * android/
+e22f11d Add package OTACenter
+
+   * build/
+2ee1f19 Merge branch 'cm-12.1' of https://github.com/CyanogenMod/android_build into maxi-5.1
+
+   * device/lge/jag3gds/
+719347d Correct Manufacturer
+
+   * device/lge/jagnm/
+719347d Correct Manufacturer
+
+   * packages/apps/OTACenter/
+36e44e9 Fix Typo
+f887009 Added translation in Spanish
+663a4a5 Delete Google Plus
+1715bdb Fix call lines for build.prop
+adf875b Fix link
+8b56318 Update png
+b75512e No need
+a933e62 Fix compilation
+b77a5ee Revert "Test 1"
+
+   * packages/apps/Settings/
+21a67d4 Fix xml error
+29a9700 Is perfomance not dev settings
+4f32093 Remove perfomance from ui settings
+5f37210 Fixed build
+afa7bee Add Perfomance Settings
+88f11b5 Add Maxi OTA Center
+
+   * system/extras/su/
+1e7b152 daemon: Validate the socket caller's requested FDs
+4f4cd57 su: Remove dead code
+
+   * vendor/maxi/
+bad893e Add OTACenter
+2719da0 Revert "Enable root access by default"
+
+====================
+     11-07-2015
+====================
+
+
+   * frameworks/base/
+411df01 Merge branch 'cm-12.1' of https://github.com/CyanogenMod/android_frameworks_base into maxi-5.1
+
+   * packages/apps/OTACenter/
+a1f39e9 Test 1
+d8e2170 RR --> MaxiCM
+a5bab22 Rename RR OTA  --> Maxi OTA
+
+   * packages/apps/Settings/
+e46e51b Add RAM info.
+eaa231f Fix Typo
+05d4abe Maxi Settings
+03d5d92 Latest Changes CM Conflicts: 	assets/contributors.db 	res/values-af/cm_strings.xml 	res/values-ca/cm_strings.xml 	res/values-cs/cm_strings.xml 	res/values-da/cm_strings.xml 	res/values-de/cm_strings.xml 	res/values-el/cm_strings.xml 	res/values-es/cm_strings.xml 	res/values-eu-rES/cm_strings.xml 	res/values-fa/cm_strings.xml 	res/values-fi/cm_strings.xml 	res/values-fr/cm_strings.xml 	res/values-it/cm_strings.xml 	res/values-iw/cm_strings.xml 	res/values-ja/cm_strings.xml 	res/values-kn-rIN/cm_strings.xml 	res/values-nl/cm_strings.xml 	res/values-pt-rBR/cm_strings.xml 	res/values-pt-rPT/cm_strings.xml 	res/values-ru/cm_strings.xml 	res/values-sk/cm_strings.xml 	res/values-sl/cm_strings.xml 	res/values-sr/cm_strings.xml 	res/values-tr/cm_strings.xml 	res/values-zh-rCN/cm_strings.xml 	res/values/cm_strings.xml
+
+====================
+     11-06-2015
+====================
+
+
+   * frameworks/av/
+861b59e audiopolicy: Fix A family a2dp mismerge
+
+   * frameworks/base/
+857b8ef Automatic translation import
+
+   * packages/apps/AudioFX/
+4a77508 Automatic translation import
+
+   * packages/apps/CMFileManager/
+8c39954 Automatic translation import
+
+   * packages/apps/Camera2/
+e6b9797 Automatic translation import
+
+   * packages/apps/Contacts/
+aa29642 Automatic translation import
+
+   * packages/apps/Dialer/
+a3845ef Automatic translation import
+
+   * packages/apps/Eleven/
+9d2f804 Automatic translation import
+
+   * packages/apps/Gallery2/
+6912a34 Automatic translation import
+
+   * packages/apps/LockClock/
+8751c90 Automatic translation import
+
+   * packages/apps/Mms/
+fee5d24 Automatic translation import
+
+   * packages/apps/Settings/
+7a985ee Remove CM translations of security_patch
+99c7c51 Automatic translation import
+
+   * packages/apps/ThemeChooser/
+cb8b79c Automatic translation import
+
+   * packages/apps/Trebuchet/
+692799c Automatic translation import
+
+   * packages/apps/TvSettings/
+11ffa66 Automatic translation import
+
+   * packages/services/Telephony/
+c10cca6 Automatic translation import
+
+   * packages/wallpapers/PhotoPhase/
+7ee94ae Automatic translation import
+
+   * prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9/
+4b05a5a Revert "Update prebuilt gold for --pic-veneer option."
+3d2f537 Update prebuilt gold for --pic-veneer option.
+
+   * vendor/cmsdk/
+a6d50e0 Automatic translation import
+
+====================
+     11-05-2015
+====================
+
+
+   * android/
+5cc2779 Remove deprecated local_manifest (jagnm)
+
+   * device/lge/jag3gds/
+d0ae92a No need
+
+   * device/lge/jagnm/
+d0ae92a No need
+
+   * frameworks/base/
+d6aedda base: get rid of android time class
+
+   * frameworks/opt/net/wifi/
+af2b866 wifi: don't disable AP on sub change if it's the same sub
+
+   * packages/apps/Settings/
+24a133a wifi: Add a filter
+
+====================
+     11-04-2015
+====================
+
+
+   * build/
+4a013e5 build: Don't load dt.img task if custom mkbootimg is used
+3e8b427 build: create dt.img task
+a306ef0 ota_from_target_files: Don't validate data signatures with data wipe
+
+   * device/lge/jag3gds/
+8b4964b Fix typo
+
+   * device/lge/jagnm/
+8b4964b Fix typo
+
+   * frameworks/base/
+317990f Revert "Only accept user rotations when in USER_ROTATION_FREE mode"
+
+   * packages/apps/MaxiSetupWizard/
+88dac23 MaxiCM Team --> MaxiCM
+
+   * packages/apps/ThemeChooser/
+e6c8aec themechooser: listen for previews
+
+   * packages/providers/ThemesProvider/
+0fe2d61 themeprovider: notify uri on preview deletion
+
+   * packages/services/Telephony/
+1acdc19 TeleService: Ensure the right phone object is used for MSIM
+
+====================
+     11-03-2015
+====================
+
+
+   * android/
+206b632 Android 5.1.1 release 26
+
+   * bootable/recovery/
+29e9b2f Merge tag 'android-5.1.1_r26' into cm-12.1
+
+   * build/
+ed8171b Merge branch 'cm-12.1' of https://github.com/CyanogenMod/android_build into maxi-5.1
+1249533 Merge tag 'android-5.1.1_r26' into HEAD
+
+   * frameworks/av/
+ee4b4d3 stagefright: MPEG4Extractor: allow 'hdlr' box before first track
+8295e4e DO NOT MERGE: Protect data source access with mutex during disconnect
+5d567cc Merge tag 'android-5.1.1_r26' into cm-12.1
+
+   * frameworks/base/
+0950ac9 Merge branch 'cm-12.1' of https://github.com/CyanogenMod/android_frameworks_base into maxi-5.1
+d19d27b Update boosted audio files 1/2
+bd0e2f2 Merge tag 'android-5.1.1_r26' into cm-12.1
+
+   * frameworks/native/
+1cba324 Merge tag 'android-5.1.1_r26' into cm-12.1
+
+   * frameworks/opt/telephony/
+c1b6b90 Fix NOT_RESTRICTED network capability and enforce it.
+35fc15d Merge tag 'android-5.1.1_r26' into cm-12.1
+
+   * hardware/qcom/media-caf/msm8916/
+bb144e5 Build mm-video-v4l2 on msm8909's
+
+   * packages/apps/DeskClock/
+60d907d deskclock: support ogg music files
+
+   * packages/apps/LockClock/
+d2d601f LockClock : Add api key for open weather
+
+   * packages/apps/MaxiSetupWizard/
+c2776b1 Rename setup_tesla_services.xml to setup_maxicm_services.xml
+
+   * packages/apps/Settings/
+58c9d69 Add translations for Security Patch Level.
+e6be537 Merge tag 'android-5.1.1_r26' into cm-12.1
+
+   * system/core/
+323bb81 Merge tag 'android-5.1.1_r26' into cm-12.1
+
+====================
+     11-02-2015
+====================
+
+
+   * android/
+15361f5 Add MaxiSetupWizard
+
+   * cts/
+04eebc6 rename android_security_cts_AudioflingerBinderTest.cpp to android_security_cts_AudioFlingerBinderTest.cpp
+9446958 Manually fix build errors from an MNC cherry-pick.
+a49f503 add more binder tests for AudioFlinger and AudioPolicyService.
+4783561 CTS: verify ConnectivityManager.requestNetwork throws for restricted networks
+74d90b3 Test if libstagefright dies in onInputBufferFilled on currupted file
+59cddac Add 5-second timeout to testFlacHeapOverflow
+f0ec278 DO NOT MERGE - Add security test for IEffect binder command
+a41f1b6 DO NOT MERGE: Test whether mediaserver leaks info across invalid binder calls
+b0e6092 DO NOT MERGE - Add CTS tests for IAudioflinger binder checks.
+
+   * frameworks/base/
+789445f Latest changes from CM Github
+04d2436 Fix crash if Exif-Tag buffer-length and component-count are both 0
+
+   * packages/apps/Camera2/
+44d2333 Fix crash if Exif-Tag buffer-length and component-count are both 0
+
+   * packages/apps/Gallery2/
+77db8c7 Fix crash if Exif-Tag buffer-length and component-count are both 0
+
+   * packages/apps/MaxiSetupWizard/
+e30d3b4 Fix Typo Name
+db04d7f New png MaxiCM
+9b73dc6 Copyright and correct color
+4947188 MaxiSetupWizard
+1ff11a3 Rename Files
+
+   * packages/apps/Mms/
+7965b67 Fix crash if Exif-Tag buffer-length and component-count are both 0
+
+   * packages/apps/Settings/
+185ef46 Settings: update contributors cloud
+
+   * packages/apps/Trebuchet/
+2d723e2 GMS 3.0 : Update optional apps and folders
+8361472 Update default workspace to GMS 3.0 req
+f6a8d4f Fix crash if Exif-Tag buffer-length and component-count are both 0
+
+   * system/core/
+4743d5c healthd: Turn screen off before rebooting
+
+   * vendor/maxi/
+0c7d73e Add MaxiSetupWizard
+
+====================
+     11-01-2015
+====================
+
+
+   * device/lge/jag3gds/
+d64196a new ril blobs
+8a4adf1 Switch to selfcompiled QCOM rill
+95bd04c use mic for call recording and fix typo
+1de967f Mac's addr loader
+d27db76 gps: another hal
+e80aaa2 Fix Typo
+a3b912a Update System.prop
+
+   * device/lge/jagnm/
+d64196a new ril blobs
+8a4adf1 Switch to selfcompiled QCOM rill
+95bd04c use mic for call recording and fix typo
+1de967f Mac's addr loader
+d27db76 gps: another hal
+e80aaa2 Fix Typo
+a3b912a Update System.prop
+
+   * kernel/lge/msm8226/
+783c02e include: rmnet_data: Define the MAPv4 data format
+492abec net: rmnet_data: Add header files for rmnet_data
+
+   * vendor/lge/
+5dadc81 Update netmgrd for new ril
+bb1d66e Fix Typo
+8dbc696 Use selfcompiled QCRIL
+4974947 Another GPS blob's
+
+====================
+     10-31-2015
+====================
+
+
+   * build/
+fe808c1 Merge branch 'maxi-5.1' of https://github.com/MaxiCM/android_build into maxi-5.1
+522f13d Merge branch 'cm-12.1' of https://github.com/CyanogenMod/android_build into remote
+
+   * packages/apps/Trebuchet/
+88dc0de Trebuchet: Enable HW Layers in app drawer
