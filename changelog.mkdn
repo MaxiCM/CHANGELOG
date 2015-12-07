@@ -1,7 +1,9 @@
   MaxiCM 5.1 ROM
 
   Source Code: http://github.com/MaxiCM
+  
   Website: http://www.maxicm.com
+  
   For extended changelog, track github activities
 
 The Changelog
