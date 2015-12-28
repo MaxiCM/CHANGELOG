@@ -9,6 +9,660 @@
 The Changelog
 
 ====================
+     12-28-2015
+====================
+
+
+   * android/
+3b18f93 Update: android-5.1.1_r30
+
+   * build/
+64ae342 Update: android-5.1.1_r30
+
+   * device/lge/jagnm/
+0fa5757 Add MaxiTweaks 5.1
+
+   * packages/apps/OTAUpdates/
+308f201 Update version 2.6 MaxiCM
+10746c2 Update PNG ic_launcher
+fee26f6 Update Readme
+3a44bf9 No need
+6bbd059 Delete Pro/Donate app
+
+====================
+     12-27-2015
+====================
+
+
+   * kernel/lge/msm8226/
+6799d1d Remove Wheatley
+
+====================
+     12-26-2015
+====================
+
+
+   * packages/apps/Settings/
+8c5dda5 Settings: Fix Typo in translation to Spanish
+30a98be Settings: Introduce translations to Spanish
+5c58f05 Settings: Update string for MaxiCM Changelog
+
+   * vendor/maxi/
+3ca8669 Reverted: Packages: OTAUpdate
+
+====================
+     12-25-2015
+====================
+
+
+   * external/whispersystems/WhisperPush/
+ffec737 Automatic translation import
+
+   * packages/apps/AudioFX/
+7a05629 Automatic translation import
+
+   * packages/apps/Bluetooth/
+662dd2c Automatic translation import
+
+   * packages/apps/BluetoothExt/
+5a7be4f Automatic translation import
+
+   * packages/apps/CMFileManager/
+23decb5 Automatic translation import
+
+   * packages/apps/Calculator/
+aa2bab2 Automatic translation import
+
+   * packages/apps/Calendar/
+8e6325e Automatic translation import
+
+   * packages/apps/Camera2/
+9728276 Automatic translation import
+
+   * packages/apps/CellBroadcastReceiver/
+42c3db5 Automatic translation import
+
+   * packages/apps/Contacts/
+daacf52 Automatic translation import
+
+   * packages/apps/ContactsCommon/
+e97d201 Automatic translation import
+
+   * packages/apps/DeskClock/
+789d587 Automatic translation import
+
+   * packages/apps/Dialer/
+dcc1dc2 Automatic translation import
+
+   * packages/apps/Eleven/
+9feb504 Automatic translation import
+
+   * packages/apps/Email/
+163add0 Automatic translation import
+
+   * packages/apps/Gallery2/
+aa639c6 Automatic translation import
+
+   * packages/apps/InCallUI/
+4ee81c4 Automatic translation import
+
+   * packages/apps/LockClock/
+cc8bcac Automatic translation import
+
+   * packages/apps/Mms/
+ee7a40d Automatic translation import
+
+   * packages/apps/PhoneCommon/
+9f73748 Automatic translation import
+
+   * packages/apps/Profiles/
+543843c Automatic translation import
+
+   * packages/apps/SoundRecorder/
+c011003 Automatic translation import
+
+   * packages/apps/Stk/
+f47d403 Automatic translation import
+
+   * packages/apps/ThemeChooser/
+f84c4fd Automatic translation import
+
+   * packages/apps/Trebuchet/
+773ce47 Automatic translation import
+
+   * packages/apps/TvSettings/
+02952a7 Automatic translation import
+
+   * packages/apps/UnifiedEmail/
+c3a7c61 Automatic translation import
+
+   * packages/providers/DownloadProvider/
+4a8b428 Automatic translation import
+
+   * packages/providers/ThemesProvider/
+dae5a37 Automatic translation import
+
+   * packages/services/Telecomm/
+fc04771 Automatic translation import
+
+   * packages/services/Telephony/
+5089ce1 Automatic translation import
+
+   * packages/wallpapers/PhotoPhase/
+cc634db Automatic translation import
+
+   * vendor/cmsdk/
+974b72f Automatic translation import
+
+====================
+     12-24-2015
+====================
+
+
+====================
+     12-23-2015
+====================
+
+
+   * device/lge/jagnm/
+cfeb38d Test BOARD_USES for audio and camera
+
+   * packages/apps/Mms/
+7021447 ClassZeroActivity: Generate audible notifications on message arrival
+
+   * prebuilts/cmsdk/
+0b8ef91 prebuilts/cmsdk: Finalized api level 3.
+
+   * vendor/cmsdk/
+effba20 cmsdk: Add finalized docs for cantaloupe.
+1bb37d9 cmsdk: update api for level 3
+
+====================
+     12-22-2015
+====================
+
+
+   * build/
+13f3564 Fix typo
+f700ec8 Merry Christmas MaxiCM(2/2)
+97876c7 Merry Christmas MaxiCM(1/2)
+
+   * external/ffmpeg/
+7436342 Add MODULE_LICENSE and NOTICE files
+
+   * external/iproute2/
+b1ad646 Add MODULE_LICENSE and NOTICE files
+
+   * external/iptables/
+a83a9a0 Add MODULE_LICENSE and NOTICE files
+
+====================
+     12-21-2015
+====================
+
+
+   * packages/apps/Trebuchet/
+d3d6774 Trebuchet: Prevent crashes on view id mess up
+
+   * vendor/maxi/
+0c583d5 Packages: OTAUpdates (V2)
+05c76f2 Packages: OTAUpdate
+
+====================
+     12-19-2015
+====================
+
+
+   * kernel/lge/msm8226/
+7e4c453 Remove Governors
+
+   * packages/apps/DeskClock/
+8069237 Fix missing zh-rCN item entries
+
+====================
+     12-18-2015
+====================
+
+
+   * build/
+9fe7326 Merge branch 'maxi-5.1' of https://github.com/MaxiCM/android_build into maxi-5.1
+beef236 Merge branch 'cm-12.1' of https://github.com/CyanogenMod/android_build into maxi-5.1
+
+   * frameworks/opt/telephony/
+44c80fd telephony: Avoid NPE during hotswap where user nw is not set for invalid sub.
+
+   * packages/apps/Calculator/
+535146b Automatic translation import
+
+   * packages/apps/Trebuchet/
+d11a4f0 Trebuchet: Ignore mnc/mcc config changes
+
+====================
+     12-17-2015
+====================
+
+
+   * external/koush/ion/
+4204efc Ion: Add .flv file type
+
+   * external/whispersystems/WhisperPush/
+e9dc184 Automatic translation import
+
+   * packages/apps/AudioFX/
+e8cb5b0 Automatic translation import
+
+   * packages/apps/Bluetooth/
+ed7ce15 Automatic translation import
+
+   * packages/apps/BluetoothExt/
+c48ae41 Automatic translation import
+
+   * packages/apps/CMFileManager/
+aa616f5 Automatic translation import
+
+   * packages/apps/Calendar/
+f68efaa Automatic translation import
+
+   * packages/apps/Camera2/
+4abed6c Automatic translation import
+
+   * packages/apps/CellBroadcastReceiver/
+6054486 Automatic translation import
+
+   * packages/apps/Contacts/
+48920c7 Automatic translation import
+
+   * packages/apps/ContactsCommon/
+b9e538b Automatic translation import
+
+   * packages/apps/DeskClock/
+9cdaa0a Automatic translation import
+
+   * packages/apps/Dialer/
+8e3b862 Automatic translation import
+
+   * packages/apps/Eleven/
+e265271 Automatic translation import
+
+   * packages/apps/Email/
+66e18ab Automatic translation import
+
+   * packages/apps/Gallery2/
+243341f Automatic translation import
+
+   * packages/apps/InCallUI/
+699d242 Automatic translation import
+
+   * packages/apps/LockClock/
+fe2d952 Automatic translation import
+
+   * packages/apps/Mms/
+9e44349 Automatic translation import
+
+   * packages/apps/PhoneCommon/
+871c2af Automatic translation import
+
+   * packages/apps/SoundRecorder/
+a346e58 Automatic translation import
+
+   * packages/apps/Stk/
+f53df43 Automatic translation import
+
+   * packages/apps/ThemeChooser/
+8532387 Automatic translation import
+
+   * packages/apps/Trebuchet/
+272f088 Automatic translation import
+
+   * packages/apps/TvSettings/
+28ed2a7 Automatic translation import
+
+   * packages/apps/UnifiedEmail/
+789c010 Automatic translation import
+
+   * packages/inputmethods/LatinIME/
+3c323ce Automatic translation import
+
+   * packages/providers/DownloadProvider/
+fafd2c2 Automatic translation import
+
+   * packages/providers/ThemesProvider/
+1054032 Automatic translation import
+
+   * packages/services/Mms/
+d6f948e Automatic translation import
+
+   * packages/services/Telecomm/
+46c297a Automatic translation import
+
+   * packages/services/Telephony/
+d37e268 Automatic translation import
+
+   * packages/wallpapers/PhotoPhase/
+92f94dd Automatic translation import
+
+   * prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9/
+b3deb93 Update prebuilt GCC to build 2492827.
+
+   * vendor/cmsdk/
+d266a6d Automatic translation import
+
+====================
+     12-16-2015
+====================
+
+
+   * kernel/lge/msm8226/
+1ac1d54 Organize some lines
+be95f49 Remove compilation of InteractiveX
+7ed71e0 Fix compilation
+
+   * vendor/maxi/
+80be655 Fix Typo in MaxiCM Tweaks
+3be4b8d Introduce Speedy for MaxiCM Tweaks
+efa7cd2 Remove LMK script
+b521419 Introduce more MaxiCM Tweaks
+b96ac8b Remove Ssmoothness_tweak
+
+====================
+     12-15-2015
+====================
+
+
+   * kernel/lge/msm8226/
+e7d63e7 Revert from commit 048341f3e7f44c9cd9e9399272eee6111c7b5049
+03de2b0 intellithermal v2: adapt for MSM8226 architecture
+da8ead6 intelli/msm_thermal: initial coding for Qualcomm Snapdragon 800 devices
+ecad4e4 Incremental patch to kernel version 3.4.110
+217b854 Switched default zram compression to lz4
+7eac3ec Updated defconfig for alucard governor
+6a23ed0 Removed darkness and impulse governors
+48c55aa Added alucard, darkness and impulse governors
+71ccef6 Updated defconfig with governors
+046c24f Removed lagfree governor
+9f80685 Enabled governors and Zcache
+15c1f8f Fixed Alucard hotplug
+727d6a7 msm: mdss: Add KCAL support for post processing control [v2] Stopped using LCD_KCAL (LG)
+6108764 Fixed Intelli-plug (caused by earlysuspend)
+852a768 Temporary fix *to be reverted* (reverted from commit ab6fd0a1869729455a27358795989a7644276532)
+21a9ef9 Added earlysuspend and fbearlysuspend in makefile
+9c6f6f0 Fix patch .rej
+3f89575 Kernel Patch 3.4.108 - 3.4.109
+2cf3ce0 Temporary fix *to be reverted*
+d97ca86 Fixed Zcache
+bc59d27 Fixed error with field "early_suspend" having incomplete type
+53fcfa4 Fixed all section mismatches
+c949a3e Fixed some compilation warnings due to commit 0badf28b1f523651f0d2942cddf20eea14450ba4
+79ef496 Fixed early suspend in governors Temporary fix for intelli plug compilation warnings
+1e70607 Added EARLYSUSPEND in kernel/power/Kconfig Commented command in line 422 in firmare/Makefile Uncommented line 798-851
+8ec1e7c fixed typo
+b00b9eb cpufreq: Move get_cpu_idle_time() to cpufreq.c and added wheatley governor
+b90fdd6 Added Alucard Hotplug
+1cb3096 Removed ifdef INTELLI_PLUG
+b9679e4 Fix mismatch in kernel/events/core.c due to kernel patch
+9af7ffa ZZMOOVE Update
+047d73d Updated zzmoove governor V1.0 beta8
+e17551a Added 5 Governors
+8b2a22b Added 12 Governors
+1530ee1 smartassH3 update
+ec2f538 Added smartassH3 and Ondemandplus
+eb6f090 PM Qos: Add min online cpus as PM QoS parameter
+4e9d382 PM / QoS: Introduce request and constraint data types for PM QoS flags
+2778835 PM QoS: Add CPU frequency min/max as PM QoS params
+9e67127 PM QoS: Add max online cpus as PM QoS parameter
+d385233 cputime: Move default nsecs_to_cputime() to jiffies based cputime file
+521e9e8 cputime: Comment cputime's adjusting code
+c330f35 cputime: Consolidate cputime adjustment code
+0dcd38f cputime: Rename thread_group_times to thread_group_cputime_adjusted
+8c7ba5b cputime: Move thread_group_cputime() to sched code
+b027350 sched: Move cputime code to its own file
+e25dcce cputime: Librarize per nsecs resolution cputime definitions
+c409c3f UKSM 0.1.2.3
+c4c2ad5 Updated DEFCONFIG for jagnm
+e72e86b Updated CPU frequencies
+7ed188e Added several frequencies and overclocked RAM and BUS to 800MHz
+83e7854 PM: devfreq: Add sysfs nodes for devfreq governors
+71f5136 PM / devfreq: Fix simple_ondemand crashing
+2c24a46 Added 650MHz bus
+3dfc1b8 Tweaked and added more frequencies. Added BUS Scale
+94fd549 657MHz GPU OC
+b6ee2e9 [Debug] Map only first 50MB of kernel
+d3f1050 crypto: ablk_helper - Replace memcpy with struct assignment
+9b412db crypto: create generic version of ablk_helper
+5186890 ARM: add support for bit sliced AES using NEON instructions
+92244b3 DRIVERS: SLIMBUS: slimbus enhancements mkII
+4eea609 drivers: slimbus: initial overclocking of slimbus
+a2300c2 ARM: 7835/2: fix modular build of xor_blocks() with NEON enabled
+33d7eae ARM: crypto: add NEON accelerated XOR implementation
+9eb8b26 Add config for optimized AES and SHA1 routines
+82c1524 arm/crypto: Add optimized AES and SHA1 routines
+3bf45f7 ARM: be strict about FP exceptions in kernel mode
+8940b39 ARM: only allow kernel mode neon with AEABI
+a65d66c ARM: move VFP init to an earlier boot stage
+01e84f4 ARM: use -mcpu=cortex-a7 when targeting MSM8226 CPUs (Cortex-A7 based)
+671851c qce50: Update clock vote for improved performance
+e96612a qce40: Update clock vote for improved performance
+fbbe14b ARM: add support for kernel mode NEON
+0ee0e1f Fixed Multiple definition of trigger_usb_state_from_otg(no longer happens when compiling for D724)
+52a7f0a sound control: remove checksum
+c4de90c Updated DEFCONFIG for jagnm
+6c27a51 600Mhz gpu OC
+45a3399 Add ARCH=arm in makefile
+653ffa6 Added 499MHz Cpu freq in dtb
+e88ffcc misc: Stop spamming kmsg
+ff4492a Simple GPU Algorithm: Initial coding for devfreq based Adreno Drivers
+9c37617 msm: kgsl: Don't update devfreq if the device is in slumber
+8cc0b0b msm: kgsl: Prevent adreno stop after gpu is power collapsed
+1bc69fd msm: kgsl: Report correct GPU frequency in sysfs
+b0e86e5 Fix compilation errors
+86aebe6 Update powersuspend to v1.5
+39f4a77 kernel/power/powersuspend: LCD screen on/off hooks
+7b5c3f0 kernel/power/powersuspend: add back userpace control w/ default kernel control
+d6bccde kernel/power/powersuspend: remove userspace dependency from powersuspend
+fc9cc26 powersuspend: new PM kernel driver for Android w/o early_suspend
+a77a304 s/dyn_sync_cntrl: dynamic sync control
+4f470e8 Added 499MHz Cpu freq and 300MHz undervolt
+909de03 Overclocked GPU to 600MHz (reverted from commit dfc3ef4218e34e26c8dd12c97b912657b9253583)(Unstable)
+be91b08 lowmemorykiller: Account for highmem during kswapd reclaim
+ad09452 Overclocked GPU to 600MHz
+0a2c710 staging: zcache: fix a compile warning
+b004183 staging: zcache: fix refcount leak
+6a7f7e7 staging: zcache: don't limit number of pools per client
+73ede4b CHROMIUM: UPSTREAM: staging: zram/zcache: swtich Kconfig dependency from x86 to ZSMALLOC
+9606862 Fix compilation errors
+f68619f lz4: add overrun checks to lz4_uncompress_unknownoutputsize()
+84d0281 lz4: fix another possible overrun
+f6a02b4 lz4: ensure length does not wrap
+950ceb7 lib/decompress_unlz4.c: always set an error return code on failures
+c962d72 lz4: fix compression/decompression signedness mismatch
+22f4371 lib/lz4: correct the LZ4 license
+9defac5 lib: add lz4 compressor module
+96bce79 f2fs: update start nid only once each circle
+1a9f119 f2fs: fix wrong kernel coding style
+4300a85 f2fs: fix to write node pages with WRITE_SYNC
+483c676 f2fs: fix dirty page accounting when redirty
+425ad82 f2fs: use existing macro to clean up some codes
+c1e58b8 f2fs: readahead contiguous SSA blocks for f2fs_gc
+88d7620 f2fs: update documents and a MAINTAINERS entry
+2e3949c f2fs: introduce large directory support
+798f199 f2fs: implement a lock-free stat_show (reverted from commit ff32318ca2248f48fbc7f561bcb61774a1e5fe3f) due to compilation errors
+03c3ec0 f2fs: remove costly bit operations for f2fs_find_entry
+1f769bd f2fs: implement a lock-free stat_show
+b7e02a1 f2fs: introduce a radix_tree for the free_nid list
+5081783 f2fs: introduce help macro on_build_free_nids()
+3d765eb f2fs: fix to mark the checkpointed nat entry correctly
+7e511ac f2fs: fix to do build_stat prior to the recovery procedure
+0a9c4b2 f2fs: fix not to write data pages on the page reclaiming path
+fce7483 f2fs: fix the calculation of max_nids
+6494991 f2fs: show counts of checkpoint in status
+886263e f2fs: introduce ra_meta_pages to readahead CP/NAT/SIT pages
+b01c934 f2fs: use inode mutex to keep atomicity of f2fs_falloc
+5536198 f2fs: clean up redundant function call
+498a2da f2fs: fix f2fs_write_meta_page at no checkpoint status
+56e8d34 f2fs: fix to truncate dentry pages in the error case
+5ffc4e2 f2fs: fix a build warning
+eee6fb7 f2fs: clean up with a macro
+e8d87a3 f2fs: fix the potential mismatch between dir's i_size and i_blocks
+65d4441 f2fs: remove the ugly pointer conversion
+c3c7e87 f2fs: fix to recover xattr node block
+4898882 f2fs: handle dirty segments inside refresh_sit_entry
+ba53139 f2fs: Update to version in 3.14
+123a528 F2FS: Backport to 3.4
+7d419a7 f2fs: Pull in from upstream 3.13 kernel
+b4d9b3f usb: gadget: mass_storage: added sysfs entry for cdrom to LUNs
+85da470 csnappy: Update to newest version
+16e2760 zram: correct offset usage in zram_bio_discard
+8abc106 zram: support REQ_DISCARD
+d4b4a16 zram: use scnprintf() in attrs show() methods
+3203e5a zram: propagate error to user
+39725c7 zram: return error-valued pointer from zcomp_create()
+1f3c82c zram: move comp allocation out of init_lock
+7ae8eb6 zram: add lz4 algorithm backend
+6fcd024 zram: add lz4 algorithm backend
+426dad4 zram: make compression algorithm selection possible
+c6b8f91 zram: add set_max_streams knob
+29fe360 zram: add multi stream functionality
+c10662b zram: factor out single stream compression
+f326d90 zram: use zcomp compressing backends
+561fd70 zram: introduce compressing backend abstraction
+56615c1 zram: delete zram_init_device()
+4fa6a80 zram: move zram size warning to documentation
+d68ed85 zram: drop not used table `count' member
+665d83a zram: report failed read and write stats
+6b4ab0b zram: remove zram stats code duplication
+17e249b zram: use atomic64_t for all zram stats
+9016425 zram: remove good and bad compress stats
+b2e6aec zram: do not pass rw argument to __zram_make_request()
+95b9fbd zram: drop `init_done' struct zram member
+17ecc11 zram: remove zram->lock in read path and change it with mutex
+b15542c zram: remove workqueue for freeing removed pending slot
+6e9baec zram: introduce zram->tb_lock
+f604bb7 zram: use atomic operation for stat
+2cc1cf0 zram: remove unnecessary free
+eb994bd zram: delay pending free request in read path
+71f03d9 zsmalloc: fixup trivial zs size classes value in comments
+954fe0d fix: "zram: avoid lockdep splat by revalidate_disk" commit compilation error.
+b642512 zram: fix race between reset and flushing pending work
+3972b5c zram: promote zram from staging
+560fa98 zram: fix incorrect stat with failed_reads
+13e26d8 zram: remove unused SECTOR_SIZE define
+f80cd1d zram: rename struct `table' to `zram_table_entry'
+9b50592 zram: avoid lockdep splat by revalidate_disk
+b117382 zram: revalidate disk after capacity change
+6e7f9f1 Added optimized ARM RWSEM algorithm.
+e4dc823 staging: Add Snappy compression library (v3)
+b32c24a writeback: fix writeback cache thrashing
+6d301b3 Always set noatime no diratime on all partitions. I/O boost
+f476b0a Removed MSM & Alucard Hotplugs
+196f209 Overclock and Underclock 192MHz - 1.6GHz (Overclock failure: Max speed locked by Qualcomm)
+7f0f344 KSM: Checks and skip page, if it is already scanned
+c9a2ff1 Moved Intelli-Plug to it's own directory and updated to v3.9
+0c88e43 Moved Intelli-Plug to it's own directory and updated to v3.9
+58292fa Sound Control: let register lock be dependent on different hw revisions
+73c26cb Sound Control: Misc clean up for newer WCD9xxx SOCs
+f8fdda6 Sound Control: expose direct register manipulations to userspace
+8796803 Sound Control 3.2
+f98f6a0 Kernel Version update rejection fixes
+4174647 Added Alucard and MSM Hotplug
+0041386 No need
+6df827d Kernel Patch 3.4.100 - 3.4.108
+3eae217 Kernel Patch 3.4.80 - 3.4.100
+f105f11 Kernel Patch 3.4.60 - 3.4.80
+a4fbd44 Kernel Patch 3.4.59 - 3.4.60
+ad40895 Kernel Patch 3.4.58 - 3.4.59
+2d7bfa5 Kernel Patch 3.4.57 - 3.4.58
+33cf74a Kernel Patch 3.4.45 - 3.4.57
+fee2981 Kernel Patch 3.4.37 - 3.4.45
+191c68c Kernel Patch 3.4.17 - 3.4.35
+a07dcc4 Kernel Patch 3.4.6 - 3.4.17
+741d2f8 Kernel Patch 3.4.2 - 3.4.6
+ccf7d15 Kernel Patch 3.4.2
+9d6d228 Kernel Patch 3.4.1
+3140d7f Alucard Hotplug Driver
+01cd87b MSM Hotplug Driver
+b3e560c GCC 5.1.1 fix
+b6a9a5f GCC 5.1.1 fix
+4d16e5d GCC 5.1.1 fix
+2c29319 GCC 5.1.1 fix
+6818025 GCC 5.1.1 fix
+7a13711 ADD: I/O Schedulers
+9869538 ADD: Intelli-plug
+
+   * packages/apps/Calculator/
+c40b6a0 Prevent entering more than one decimal symbol during input
+
+   * prebuilts/gcc/darwin-x86/x86/x86_64-linux-android-4.9/
+568d6b7 Update prebuilt GCC to build 2485757.
+
+====================
+     12-14-2015
+====================
+
+
+====================
+     12-13-2015
+====================
+
+
+   * build/
+9f24ea9 Enable El Capitan hosts for build
+
+   * device/lge/jagnm/
+6e97659 Revert "Fix mic"
+
+   * vendor/maxi/
+9cdab4e Introduce net_buffer
+dbd9dfd Fix typo
+
+====================
+     12-12-2015
+====================
+
+
+   * build/
+d4546e4 Fix duplicate file
+565cbe2 Ulala
+
+   * device/qcom/common/
+e6858b4 Update README.md
+
+   * system/vold/
+84358d9 asec: Add an extra MB for overhead while transferring app to container
+
+====================
+     12-11-2015
+====================
+
+
+   * android/
+8b9d803 Add MaxiCM Browser
+
+   * build/
+4041965 build: Made more friendly the installation process
+0c5f2ff Update security string to 2015-12-01
+
+   * packages/apps/Browser/
+d3656a1 MaxiCM: Change default homepage
+
+   * system/core/
+1bfbae1 libziparchive: fix fallocate failures
+2df6c4a Reserve space on disk using fallocate
+
+====================
+     12-10-2015
+====================
+
+
+   * build/
+b6625f7 build: Fix a little word issue
+
+   * frameworks/opt/net/wifi/
+0ba3cdc wifi: fixup hotspot disconnect on subscriber change
+
+   * packages/apps/ThemeChooser/
+7d903fe Fix duplicate "Get More" buttons in menu
+
+====================
      11-09-2015
 ====================
 
